@@ -1,0 +1,48 @@
+
+*{
+    background-color: rgb(150, 220, 197);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container{
+    height: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    width: 1250px;
+   
+}
+
+.square {
+    display: inline-block;
+    height: 200px;
+    margin: -1px;
+    width: 200px;
+    
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.corner {
+    background-color: red;
+    border: 1px solid black;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
